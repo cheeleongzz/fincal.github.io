@@ -1,0 +1,30 @@
+body {
+    font-family: Kaushan Script, cursive;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(saving.jpg);
+    background-size: cover;
+    color: #fff;
+    height: 650px;
+    font-family: 'Poiret One', cursive;
+    margin-bottom: 0;
+    align-items: center;
+}
+
+.jumbotron h2 {
+    margin: 100px 0 20px;
+    align-items: center;
+}
+
+.jumbotron a {
+    color: white;
+    font-size: 2rem;
+   
+}
